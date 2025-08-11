@@ -26,7 +26,7 @@
    - Mantenimiento equipos.
    - Manjeo inventario equipos.
    - Soporte presencial y virtual a usuarios.
-   - Atencion al cliente
+   - Atencion al cliente.
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
