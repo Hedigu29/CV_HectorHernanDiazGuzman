@@ -16,7 +16,7 @@
    - CSS
    
 ### **Armada Nacional de Colombia** _(2023-2024)_
-- Técnico en Mantenimiento de equipos de computo.
+- Técnico en mantenimiento de equipos de computo.
    - Mantenimiento de equipos de computo.
    - Instalacion de aplicativos.
 
