@@ -12,19 +12,19 @@
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
 - Analista y desarrollador de software.
- - Pyton
- - HTML
- - css
+   - Pyton
+   - HTML
+   - css
    
 ### **Armada Nacional de Colombia** _(2023-2024)_
 - Técnico en Mantenimiento de equipos de computo.
 
-### **Bavaria** _(2019-2021)_
+### **Bavaria** _(2021-2022)_
 - Técnico en sistemas.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz de analisis y desarrollo de software.
 
 ## 💡 Habilidades
 - **Habilidad 1**
