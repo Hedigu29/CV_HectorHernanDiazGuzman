@@ -15,6 +15,9 @@
  - Pyton
  - HTML
  - css
+   
+### **Armada Nacional de Colombia** _(2023-2024)_
+- Técnico en Mantenimiento de equipos de computo.
 
 ### **Bavaria** _(2019-2021)_
 - Técnico en sistemas.
