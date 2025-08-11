@@ -34,6 +34,8 @@
 - Aprendiz de analisis y desarrollo de software.
 ### **SENA** _(2021 - 2022)_
 - Técnico en sistemas.
+### **Colegio Tabora I.E.D.** _(2020)_
+- Bachiller Academico
 
 ## 💡 Habilidades
 - **Detección y corrección de fallos en software.**
