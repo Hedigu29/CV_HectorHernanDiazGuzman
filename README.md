@@ -5,7 +5,7 @@
 **Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Email:** [hedigu290803@gmail.com](mailto: hedigu290803@gmail.com)
+- **Email:** [hedigu290803@gmail.com](mailto:hedigu290803@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
