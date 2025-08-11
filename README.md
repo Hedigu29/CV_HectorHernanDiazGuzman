@@ -11,10 +11,10 @@
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
 - Analista y desarrollador de software.
-   - Python
-   - HTML
    - CSS
    - Java
+   - HTML
+   - Python
    
 ### **Armada Nacional de Colombia** _(2023-2024)_
 - Técnico en mantenimiento de equipos de computo.
