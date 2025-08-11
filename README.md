@@ -1,20 +1,23 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Héctor Hernán Díaz gUzmán
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 314 450 7864
+- **Email:** [hedigu290803@gmail.com](hedigu290803@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Analista y desarrollador de software.
+ - Pyton
+ - HTML
+ - css
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Bavaria** _(2019-2021)_
+- Técnico en sistemas.
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
