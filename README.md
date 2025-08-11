@@ -11,7 +11,7 @@
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
 - Analista y desarrollador de software.
-   - Pyton
+   - Python
    - HTML
    - css
    
@@ -35,9 +35,13 @@
 - Técnico en sistemas.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Detección y corrección de fallos en software.**
+- **Documentación y validación de requisitos con clientes.**
+- **Pruebas manuales y automaticas con enfoque QA.**
+- **Optimización de funciones sin comprometer la funcionalidad.**
+- **Comunicación clara con clientes no técnicos**
+- **Uso de python para desarrollo**
+- **Gestión de codigo en GitHub**
 
 ---
 
