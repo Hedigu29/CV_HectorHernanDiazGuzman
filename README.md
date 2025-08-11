@@ -1,11 +1,10 @@
 # CV_Example
 # Hoja de Vida
 
-## Héctor Hernán Díaz gUzmán
+## Héctor Hernán Díaz Guzmán
 **Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 314 450 7864
 - **Email:** [hedigu290803@gmail.com](hedigu290803@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
@@ -18,13 +17,22 @@
    
 ### **Armada Nacional de Colombia** _(2023-2024)_
 - Técnico en Mantenimiento de equipos de computo.
+   - Mantenimiento de equipos de computo.
+   - Instalacion de aplicativos.
 
 ### **Bavaria** _(2021-2022)_
 - Técnico en sistemas.
+   - Instalacion equipos.
+   - Mantenimiento equipos.
+   - Manjeo inventario equipos.
+   - Soporte presencial y virtual a usuarios.
+   - Atencion al cliente
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
 - Aprendiz de analisis y desarrollo de software.
+### **SENA** _(2021 - 2022)_
+- Técnico en sistemas.
 
 ## 💡 Habilidades
 - **Habilidad 1**
