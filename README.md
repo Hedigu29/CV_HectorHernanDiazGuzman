@@ -14,6 +14,7 @@
    - Python
    - HTML
    - CSS
+   - Java
    
 ### **Armada Nacional de Colombia** _(2023-2024)_
 - Técnico en mantenimiento de equipos de computo.
